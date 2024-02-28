@@ -1,0 +1,16 @@
+server:
+  port: 8081
+
+#spring:
+#  datasource:
+#    banco1:
+#      url: jdbc:postgresql://localhost:5433/banco1
+#      username: postgres
+#      password: admin
+#    banco2:
+#      url: jdbc:postgresql://localhost:5433/banco2
+#      username: postgres
+#      password: admin
+#    driver-class-name: org.postgresql.Driver
+#  jpa:
+#    database-platform: org.hibernate.dialect.PostgreSQLDialect
